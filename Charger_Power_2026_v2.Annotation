@@ -1,0 +1,14 @@
+[DesignatorManager]
+LogicalDesignator0=
+LogicalPartID0=1
+DocumentName0=MOSFET.SchDoc
+ChannelName0=MOSFET_1
+UniqueID0=\GIULBJDE\ZCWWRXGG
+PhysicalDesignator0=R3_MOSFET_1
+PhysicalDesignatorLocked0=1
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+
